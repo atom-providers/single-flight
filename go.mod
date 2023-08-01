@@ -3,7 +3,7 @@ module github.com/atom-providers/single-flight
 go 1.18
 
 require (
-	github.com/rogeecn/atom v1.0.4
+	github.com/rogeecn/atom v1.0.6
 	golang.org/x/sync v0.3.0
 )
 
